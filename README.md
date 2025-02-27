@@ -1,2 +1,3 @@
 # ohnoltrane.github.io
-Website
+This is a Website, of me.
+Stuff about me...
